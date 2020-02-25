@@ -4,7 +4,7 @@
 ``` $ git clone git@github.com:magdihub/stws.git ```
 
 ## move into directory
-``` $ cd mws ```
+``` $ cd stws ```
 
 ## run this command
 ``` $ cargo run ```
